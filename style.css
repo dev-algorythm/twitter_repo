@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap_bg{
+    background-color: #000000;
+    color: white;
+    overflow: hidden;
+}
+.twe_but_bg{
+    background-color: #1A8CD8;
+    padding: 15px 90px 15px 90px;
+    margin: 20px 0 100px 80px;
+}
