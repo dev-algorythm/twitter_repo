@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap_bg{
+    background-color: #000000;
+    color: white;
+    overflow: hidden;
+}
+header{
+    position: fixed;
+}
+footer{
+    position: fixed;
+}
+.twe_but_bg{
+    background-color: #1A8CD8;
+    padding: 15px 90px 15px 90px;
+    margin: 20px 0 100px 80px;
+}
+.cen_bor{
+    border: 1px solid #2F3336;
+}
+.cen_bor button{
+    background-color: #1A8CD8;
+}
+.lin_unstyl{
+    text-decoration: none;
+}
+.foot_bg{
+    background-color: #202327;
+    margin-right: 140px;
+    border-radius: 12px;
+}
+.sear_inp{
+    padding: 10px 140px 10px 30px;
+}
+.foot_h{
+    font-size: 17px;
+}
